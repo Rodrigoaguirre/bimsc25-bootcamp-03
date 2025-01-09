@@ -4,7 +4,7 @@
 }
 
 #navBar {
-    backgroundcolor: rgb(233, 203, 253);
+    background-color: rgb(233, 203, 253);
     height: var(--navBarHeight);
     padding: 20px
 }
@@ -16,8 +16,8 @@
 }
 
 #main {
-    background-color: rgb(145, 208, 219)
-    width: calc(100vw - var(--sideBarHeight))
+    background-color: rgb(145, 208, 219);
+    width: calc(100vw - var(--sideBarHeight));
     padding: 10px
 }
 
